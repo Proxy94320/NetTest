@@ -1,0 +1,12 @@
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\bin\Debug\netcoreapp2.0\WemanityTest.deps.json
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\bin\Debug\netcoreapp2.0\WemanityTest.runtimeconfig.json
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\bin\Debug\netcoreapp2.0\WemanityTest.runtimeconfig.dev.json
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\bin\Debug\netcoreapp2.0\WemanityTest.dll
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\bin\Debug\netcoreapp2.0\WemanityTest.pdb
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\obj\Debug\netcoreapp2.0\WemanityTest.csprojAssemblyReference.cache
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\obj\Debug\netcoreapp2.0\WemanityTest.csproj.CoreCompileInputs.cache
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\obj\Debug\netcoreapp2.0\WemanityTest.AssemblyInfoInputs.cache
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\obj\Debug\netcoreapp2.0\WemanityTest.AssemblyInfo.cs
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\obj\Debug\netcoreapp2.0\WemanityTest.dll
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\obj\Debug\netcoreapp2.0\WemanityTest.pdb
+c:\users\philippe\source\repos\WemanityTest\WemanityTest\bin\Debug\netcoreapp2.0\Resources\ReadMe.txt
